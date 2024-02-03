@@ -1,2 +1,2 @@
-# PipeBugPython3
-Pipe stdin bug in Python 3
+# FlushSleepBugStdin
+No output without flush when sleep is using
